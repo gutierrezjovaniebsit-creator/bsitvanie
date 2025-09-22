@@ -6,3 +6,4 @@ USE `UniversityDB`;
 
 -- Optional Verification: Confirm the selected database
 SELECT DATABASE();
+
